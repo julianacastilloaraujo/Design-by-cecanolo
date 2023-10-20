@@ -3,7 +3,7 @@
 * Pixeles
 * Imagenes
 * Vectorizacion
-* Redimencionar
+* Redimencionar (SHIT + S)
 
 # Software que utilizamos GIMP 2.10.34 🐺
 
